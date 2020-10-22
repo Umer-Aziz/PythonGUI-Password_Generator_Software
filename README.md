@@ -8,6 +8,7 @@ you can generate a random password from 1 to 99.
 SCREENSHOT:
 
 
-![image](https://user-images.githubusercontent.com/62507205/96889895-7f6b6680-14a0-11eb-9631-bae0567ef1c0.png)
+![image](https://user-images.githubusercontent.com/62507205/96892003-a32fac00-14a2-11eb-9a4f-0af161a4737f.png)
+
 
 
